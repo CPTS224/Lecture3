@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello, again"
+echo "Hello, again (for the second time)"
